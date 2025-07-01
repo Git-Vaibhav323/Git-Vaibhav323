@@ -2,7 +2,7 @@
 
 🎨 UI/UX Designer | 🐍 Python Developer | 🤖 AI Enthusiast
 
-- 🧠 Exploring AI applications in health-tech (EEG & fNIRS research)
+- 🧠 Exploring AI applications in health-tech
 - 💻 Building full-stack apps and sites  with tools like Vercel, Netlify, Cursor
 - 🛠️ Passionate about blending design + code for smarter UX
 
