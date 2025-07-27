@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vaibhav
 
-🎨 UI/UX Designer | 🐍 Python Developer | 🤖 AI Enthusiast
+ 🐍 Python Developer | 🤖 AI Enthusiast| ML learner
 
 - 🧠 Exploring AI applications in health-tech
 - 💻 Building full-stack apps and sites  with tools like Vercel, Netlify, Cursor
