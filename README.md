@@ -9,12 +9,10 @@
 <br>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%7C%20Data%20Science-4C1D95?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VIT%20Chennai-CGPA%208.2-6D28D9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-dwivedi-64bds"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vaibhavpw2024@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Git-Vaibhav323"><img src="https://img.shields.io/badge/GitHub-12071F?style=for-the-badge&logo=github&logoColor=white" /></a>
